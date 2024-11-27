@@ -1,0 +1,30 @@
+{
+    "phrases": [
+      {
+        "id": 1,
+        "phrase": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+        "author": "Robert Collier"
+      },
+      {
+        "id": 2,
+        "phrase": "El único modo de hacer un gran trabajo es amar lo que haces.",
+        "author": "Steve Jobs"
+      },
+      {
+        "id": 3,
+        "phrase": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "id": 4,
+        "phrase": "Aprender nunca agota la mente.",
+        "author": "Leonardo da Vinci"
+      },
+      {
+        "id": 5,
+        "phrase": "No importa cuán lento vayas, siempre y cuando no te detengas.",
+        "author": "Confucio"
+      }
+    ]
+  }
+  
