@@ -2,7 +2,6 @@
 node_modules/
 
 # Ignorar lock files de npm o yarn 
-package-lock.json
 yarn.lock
 
 # Ignorar archivos de entorno
