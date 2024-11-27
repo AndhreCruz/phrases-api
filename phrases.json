@@ -1,9 +1,9 @@
 {
-    "phrases": [
+    "phrases": [ 
       {
-        "id": 1,
-        "phrase": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
-        "author": "Robert Collier"
+        "id": 1, 
+        "phrase": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.", 
+        "author": "Robert Collier" 
       },
       {
         "id": 2,
@@ -24,6 +24,81 @@
         "id": 5,
         "phrase": "No importa cuán lento vayas, siempre y cuando no te detengas.",
         "author": "Confucio"
+      },
+      {
+        "id": 6,
+        "phrase": "La vida es 10% lo que te ocurre y 90% cómo reaccionas a ello.",
+        "author": "Charles R. Swindoll"
+      },
+      {
+        "id": 7,
+        "phrase": "Tu tiempo es limitado, no lo desperdicies viviendo la vida de alguien más.",
+        "author": "Steve Jobs"
+      },
+      {
+        "id": 8,
+        "phrase": "El único límite a nuestros logros de mañana son nuestras dudas de hoy.",
+        "author": "Franklin D. Roosevelt"
+      },
+      {
+        "id": 9,
+        "phrase": "Cree en ti mismo y en todo lo que eres. Reconoce que hay algo dentro de ti que es más grande que cualquier obstáculo.",
+        "author": "Christian D. Larson"
+      },
+      {
+        "id": 10,
+        "phrase": "El secreto del éxito no radica en hacer siempre lo que amas, sino en amar lo que haces.",
+        "author": "Desconocido"
+      },
+      {
+        "id": 11,
+        "phrase": "Haz lo que puedas, con lo que tengas, donde estés.",
+        "author": "Theodore Roosevelt"
+      },
+      {
+        "id": 12,
+        "phrase": "No cuentes los días, haz que los días cuenten.",
+        "author": "Muhammad Ali"
+      },
+      {
+        "id": 13,
+        "phrase": "No tengas miedo de renunciar a lo bueno para ir por lo grandioso.",
+        "author": "John D. Rockefeller"
+      },
+      {
+        "id": 14,
+        "phrase": "Es más importante el viaje que el destino.",
+        "author": "Arthur Ashe"
+      },
+      {
+        "id": 15,
+        "phrase": "No mires el reloj; haz lo que hace. Sigue adelante.",
+        "author": "Sam Levenson"
+      },
+      {
+        "id": 16,
+        "phrase": "La felicidad no es algo hecho. Proviene de tus propias acciones.",
+        "author": "Dalai Lama"
+      },
+      {
+        "id": 17,
+        "phrase": "El éxito parece ser en gran parte cuestión de continuar cuando otros han abandonado.",
+        "author": "William Feather"
+      },
+      {
+        "id": 18,
+        "phrase": "No te preocupes por fallar, preocúpate por las oportunidades que pierdes cuando ni siquiera lo intentas.",
+        "author": "Jack Canfield"
+      },
+      {
+        "id": 19,
+        "phrase": "Si puedes soñarlo, puedes lograrlo.",
+        "author": "Zig Ziglar"
+      },
+      {
+        "id": 20,
+        "phrase": "Haz de cada día tu obra maestra.",
+        "author": "John Wooden"
       }
     ]
   }
